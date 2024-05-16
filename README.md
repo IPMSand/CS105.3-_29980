@@ -1,1 +1,3 @@
-CS105.3 Databse Management System Module- Lab Tutorials
+# CS105.3 Databse Management System 
+> Y1S1 NSBM University
+Lab Tutorials
